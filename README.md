@@ -1,4 +1,4 @@
-# vue-base-template
+# vue-basic-template
 
 Vue 3 + Vite template with TypeScript, Vue Router, Pinia, VueUse, Tailwind CSS v4, ESLint, Prettier, and Vitest.
 

@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Theme tokens: colors, fonts, breakpoints */
+  --color-vue-green: #42b883;
+  --color-vue-green-dark: #33a06f;
+}
+
+

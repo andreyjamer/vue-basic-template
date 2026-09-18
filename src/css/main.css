@@ -1,0 +1,15 @@
+@import './tailwind.css';
+
+@layer base {
+  html {
+    @apply antialiased;
+  }
+
+  body {
+    @apply min-h-dvh bg-white text-slate-800 dark:bg-slate-950 dark:text-slate-100;
+  }
+
+  a {
+    @apply text-vue-green transition-colors hover:text-vue-green-dark;
+  }
+}
